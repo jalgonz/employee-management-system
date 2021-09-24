@@ -1,30 +1,30 @@
 {
- "name": "employee-management-system",
- "version": "1.0.0",
- "description": "",
- "main": "index.js",
- "dependencies": {
-      "console-table-printer": "^2.9.0",
-      "console.table": "^0.10.0",
-      "dotenv": "^10.0.0",
-      "inquirer": "^8.1.2",
-      "mysql": "^2.18.1",
-      "util": "^0.12.4"
-    },
- "devDependencies": {},
- "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node emptrack.js"
-    },
- "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jalgonz/employee-management-system"
-    },
- "keywords": [],
- "author": "",
- "license": "ISC",
- "bugs": {
-      "url": "https://github.com/jalgonz/employee-management-system/issues"
-    },
- "homepage": "https://github.com/jalgonz/employee-management-system#readme"
+     "name": "employee-management-system",
+     "version": "1.0.0",
+     "description": "",
+     "main": "index.js",
+     "dependencies": {
+          "console-table-printer": "^2.9.0",
+          "console.table": "^0.10.0",
+          "dotenv": "^10.0.0",
+          "inquirer": "^8.1.2",
+          "mysql": "^2.18.1",
+          "util": "^0.12.4"
+     },
+     "devDependencies": {},
+     "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1",
+          "start": "node emptrack.js"
+     },
+     "repository": {
+          "type": "git",
+          "url": "git+https://github.com/jalgonz/employee-management-system"
+     },
+     "keywords": [],
+     "author": "",
+     "license": "ISC",
+     "bugs": {
+          "url": "https://github.com/jalgonz/employee-management-system/issues"
+     },
+     "homepage": "https://github.com/jalgonz/employee-management-system#readme"
 }
