@@ -4,7 +4,7 @@ require("dotenv").config();
 const { printTable } = require("console-table-printer");
 
 function startProg() {
-  console.log('Welcome to EmpTrack systems');
+  console.log('Welcome to the Employee Management System, chose from the following options');
   mainMenu();
 }
 
